@@ -1,0 +1,108 @@
+{
+    "districts" : [
+        {
+          "id": 1,
+          "district": "dhule",
+          "population": "12 lakh",
+          "mp": "subash bhamare",
+          "mla": "anil gote",
+          "majorProduce": "peanuts"
+        },
+        {
+          "id": 2,
+          "district": "nandurbar",
+          "population": "8 lakh",
+          "mp": "gavit",
+          "mla": "Borse",
+          "majorProduce": "Chilli"
+        },
+        {
+          "id": 3,
+          "district": "Thane",
+          "population": "7 Lakh",
+          "mp": "Ananta Sonawane",
+          "mla": "Rahul Sanyasi",
+          "majorProduce": "Bitroot"
+        },
+        {
+          "id": 4,
+          "district": "Nasik",
+          "population": "2.5 lakh",
+          "mp": "Bhujbal",
+          "mla": "Dr. Bharti Pawar",
+          "majorProduce": "Grapes"
+        },
+        {
+          "id": 5,
+          "district": "Pune",
+          "population": "25 lakh",
+          "mp": "Ajit Dada",
+          "mla": "Supriya Sule",
+          "majorProduce": "Anjeer"
+        },
+        {
+          "id": 6,
+          "district": "Nagar",
+          "population": "18 lakh",
+          "mp": "Mrunal Sanyasi",
+          "mla": "Ananta",
+          "majorProduce": "Sugar cane"
+        },
+        {
+          "id": 7,
+          "district": "Solapur",
+          "population": "15 Lakh",
+          "mp": "Sushil Shimpi",
+          "mla": "Kiran Bhamare",
+          "majorProduce": "Onion"
+        },
+        {
+          "id": 8,
+          "district": "Nagpur",
+          "population": "3.5 lakh",
+          "mp": "Devendra Fadnavis",
+          "mla": "Sunil keadar",
+          "majorProduce": "Orange"
+        },
+        {
+          "id": 9,
+          "district": "Kolhapur",
+          "population": "14 Lakh",
+          "mp": "Mukesh Jagtap",
+          "mla": "Niket Nikhubh",
+          "majorProduce": "Garlic"
+        },
+        {
+          "id": 10,
+          "district": "Thane",
+          "population": "19 Lakh",
+          "mp": "Sanjeev Naik",
+          "mla": "Sanjay Kelkar",
+          "majorProduce": "Mamledar Misal"
+        },
+        {
+          "id": 11,
+          "district": "Sangli",
+          "population": "17 Lakh",
+          "mp": "Vinay Sanyasi",
+          "mla": "Ajay Jagtap",
+          "majorProduce": "Groundnut"
+        },
+        {
+          "id": 12,
+          "district": "Jalgaon",
+          "population": "45 Lakh",
+          "mp": "Unmesh Patil",
+          "mla": "Gulabrao Patil",
+          "majorProduce": "Banana"
+        },
+        {
+          "id": 13,
+          "district": "Satara",
+          "population": "13.5 lakh",
+          "mp": "Eknath Shinde",
+          "mla": "Mohan Bhamare",
+          "majorProduce": "Orange"
+        }
+      ]
+}
